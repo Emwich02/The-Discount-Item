@@ -1,1 +1,3 @@
-# The-Discount-Item
+Name : Mr. Phaswich Sirichantra 
+Nickname : M
+Age : 24
